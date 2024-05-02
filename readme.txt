@@ -1,0 +1,1 @@
+сайт для mysql - 'http://127.0.0.1/openserver/phpmyadmin/index.php'
